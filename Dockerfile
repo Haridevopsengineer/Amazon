@@ -1,2 +1,2 @@
 FROM tomcat:8
-COPY target/*.war /user/local/tomcat/webapps/
+COPY Prime-v1.jar /user/local/tomcat/webapps/
